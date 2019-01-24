@@ -19,6 +19,7 @@ Python code for simulating infection disease dynamics of multi-type pathogens an
 
 `simulation.py`: This script simulates the pre- and post-vaccination steady states of multi-type dynamical systems, each corresponding to a generated parameter set. The default interaction structure (model) is `model = [mode = 'acq', multi = 'typewise', recip = 'structured', epsilon = '0']`.
 It can also be changed to any of the following ten alternatives:
+
  mode     | multi       | recip          | epsilon 
  ---      | -----       | -----          | ------- 
  'acq'    | 'groupwise' | 'structured'   | '0'     
