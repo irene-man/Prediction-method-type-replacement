@@ -1,6 +1,6 @@
 # Prediction-method-type-replacement
 
-## Brief description
+### Brief description
 Python code for simulating infection disease dynamics of multi-type pathogens and the effect of vaccination. The code is used to compute the performance of predictors of type replacement proposed in "Capturing multiple-type interactions into practical predictors of type replacement following HPV vaccination", *Philosophical Transactions of the Royal Society of London. Series B, 2019 (doi: 10.1098/rstb.2018.0298)*.
 
 ### Prerequisites
